@@ -15,5 +15,5 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 ## ScreenShot
 
 <div id="screens" style="text-align:center width:500px"">
-	<img src="screenshots/ScreenS1.png" />
+	<img src="screens/ScreenS1.png" />
 </div>
